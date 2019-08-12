@@ -1,0 +1,15 @@
+{
+  "name": "election-results",
+  "version": "1.0.0",
+  "description": "It's election night! Exciting! We have a feed of election results from a data supplier. They will supply us a file which will be updated throughout the night as results come in.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^24.8.0",
+    "prettier": "^1.18.2"
+  }
+}
